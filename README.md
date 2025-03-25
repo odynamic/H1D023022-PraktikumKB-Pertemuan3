@@ -16,7 +16,6 @@ Program ini adalah sistem inventarisasi barang sederhana yang dibuat menggunakan
 
 ## Struktur Data
 Program ini menggunakan dictionary untuk menyimpan data inventaris. Struktur data ini memungkinkan pencarian, penambahan, dan penghapusan data dengan efisien.
-data_inventaris = {}
 
 ## Library
 - csv: untuk menyimpan dan memuat data inventaris dari file CSV.
